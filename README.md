@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-<!--
-**justenstall/justenstall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Justen Stall, a Data Science Engineer at the University of Dayton Research Institute.
 
-I'm Justen Stall a Data Science Engineer at the University of Dayton Research Institute.
-
-<!--
-**- 🔭 I’m currently working on ...
-**- 🌱 I’m currently learning ...
-**- 👯 I’m looking to collaborate on ...
-**- 🤔 I’m looking for help with ...
+**- 🔭 I’m currently working on new approaches to DevOps for machine learning
+**- 🌱 I’m currently learning CLI development with Golang
 **- 💬 Ask me about: guitar pedals, film photography
-**- 📫 How to reach me: justenstall@gmail.com
 **- 😄 Pronouns: He/Him
-**- ⚡ Fun fact: ...
