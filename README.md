@@ -1,1 +1,3 @@
-I'm Justen Stall, a Data Science Engineer at the University of Dayton Research Institute.
+# Justen Stall
+
+Data Science Engineer at the University of Dayton Research Institute.
